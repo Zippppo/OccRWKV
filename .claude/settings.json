@@ -1,0 +1,10 @@
+{
+    "env": {
+        "ANTHROPIC_AUTH_TOKEN": "sk-4TYO5IquAI1MDLUtxfoMS2QJEnv3oOBS5xPS075EIE3lUchE",
+        "ANTHROPIC_BASE_URL": "https://jp.duckcoding.com"
+    },
+    "model": "opus",
+    "permissions": {
+        "defaultMode": "bypassPermissions"
+  }
+}
